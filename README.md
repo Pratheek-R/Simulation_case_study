@@ -1,6 +1,7 @@
 # Simulation_case_study
 
-Overview
+Overview:
+
 Container terminals are pivotal nodes in global supply chains, where efficient handling of container vessels directly impacts the flow of goods worldwide. These terminals operate under complex conditions with various resources such as berths, quay cranes, and trucks that must be coordinated to ensure timely processing of vessels and their cargo.
 
 Simulation Steps
