@@ -1,0 +1,910 @@
+
+125.272: vessel_1 arrives and waits for a berth
+125.272: vessel_1 has been assigned to berth_1
+Waiting time for vessel_1: 0.0 minutes
+125.272: crane_1 unloads vessel_1-container_1 from vessel_1 to truck_1
+128.272: truck_1 carrying vessel_1-container_1 is departed towards yard
+128.272: crane_1 unloads vessel_1-container_2 from vessel_1 to truck_2
+131.272: truck_2 carrying vessel_1-container_2 is departed towards yard
+131.272: crane_1 unloads vessel_1-container_3 from vessel_1 to truck_3
+134.272: truck_1 returns to the berth
+134.272: truck_3 carrying vessel_1-container_3 is departed towards yard
+134.272: crane_1 unloads vessel_1-container_4 from vessel_1 to truck_1
+137.272: truck_2 returns to the berth
+137.272: truck_1 carrying vessel_1-container_4 is departed towards yard
+137.272: crane_1 unloads vessel_1-container_5 from vessel_1 to truck_2
+140.272: truck_3 returns to the berth
+140.272: truck_2 carrying vessel_1-container_5 is departed towards yard
+140.272: crane_1 unloads vessel_1-container_6 from vessel_1 to truck_3
+143.272: truck_1 returns to the berth
+143.272: truck_3 carrying vessel_1-container_6 is departed towards yard
+143.272: crane_1 unloads vessel_1-container_7 from vessel_1 to truck_1
+146.272: truck_2 returns to the berth
+146.272: truck_1 carrying vessel_1-container_7 is departed towards yard
+146.272: crane_1 unloads vessel_1-container_8 from vessel_1 to truck_2
+149.272: truck_3 returns to the berth
+149.272: truck_2 carrying vessel_1-container_8 is departed towards yard
+149.272: crane_1 unloads vessel_1-container_9 from vessel_1 to truck_3
+152.272: truck_1 returns to the berth
+152.272: truck_3 carrying vessel_1-container_9 is departed towards yard
+152.272: crane_1 unloads vessel_1-container_10 from vessel_1 to truck_1
+155.272: truck_2 returns to the berth
+155.272: truck_1 carrying vessel_1-container_10 is departed towards yard
+155.272: crane_1 unloads vessel_1-container_11 from vessel_1 to truck_2
+158.272: truck_3 returns to the berth
+158.272: truck_2 carrying vessel_1-container_11 is departed towards yard
+158.272: crane_1 unloads vessel_1-container_12 from vessel_1 to truck_3
+161.272: truck_1 returns to the berth
+161.272: truck_3 carrying vessel_1-container_12 is departed towards yard
+161.272: crane_1 unloads vessel_1-container_13 from vessel_1 to truck_1
+164.272: truck_2 returns to the berth
+164.272: truck_1 carrying vessel_1-container_13 is departed towards yard
+164.272: crane_1 unloads vessel_1-container_14 from vessel_1 to truck_2
+167.272: truck_3 returns to the berth
+167.272: truck_2 carrying vessel_1-container_14 is departed towards yard
+167.272: crane_1 unloads vessel_1-container_15 from vessel_1 to truck_3
+170.272: truck_1 returns to the berth
+170.272: truck_3 carrying vessel_1-container_15 is departed towards yard
+170.272: crane_1 unloads vessel_1-container_16 from vessel_1 to truck_1
+173.272: truck_2 returns to the berth
+173.272: truck_1 carrying vessel_1-container_16 is departed towards yard
+173.272: crane_1 unloads vessel_1-container_17 from vessel_1 to truck_2
+176.272: truck_3 returns to the berth
+176.272: truck_2 carrying vessel_1-container_17 is departed towards yard
+176.272: crane_1 unloads vessel_1-container_18 from vessel_1 to truck_3
+179.272: truck_1 returns to the berth
+179.272: truck_3 carrying vessel_1-container_18 is departed towards yard
+179.272: crane_1 unloads vessel_1-container_19 from vessel_1 to truck_1
+182.272: truck_2 returns to the berth
+182.272: truck_1 carrying vessel_1-container_19 is departed towards yard
+182.272: crane_1 unloads vessel_1-container_20 from vessel_1 to truck_2
+185.272: truck_3 returns to the berth
+185.272: truck_2 carrying vessel_1-container_20 is departed towards yard
+185.272: crane_1 unloads vessel_1-container_21 from vessel_1 to truck_3
+188.272: truck_1 returns to the berth
+188.272: truck_3 carrying vessel_1-container_21 is departed towards yard
+188.272: crane_1 unloads vessel_1-container_22 from vessel_1 to truck_1
+191.272: truck_2 returns to the berth
+191.272: truck_1 carrying vessel_1-container_22 is departed towards yard
+191.272: crane_1 unloads vessel_1-container_23 from vessel_1 to truck_2
+194.272: truck_3 returns to the berth
+194.272: truck_2 carrying vessel_1-container_23 is departed towards yard
+194.272: crane_1 unloads vessel_1-container_24 from vessel_1 to truck_3
+197.272: truck_1 returns to the berth
+197.272: truck_3 carrying vessel_1-container_24 is departed towards yard
+197.272: crane_1 unloads vessel_1-container_25 from vessel_1 to truck_1
+200.272: truck_2 returns to the berth
+200.272: truck_1 carrying vessel_1-container_25 is departed towards yard
+200.272: crane_1 unloads vessel_1-container_26 from vessel_1 to truck_2
+203.272: truck_3 returns to the berth
+203.272: truck_2 carrying vessel_1-container_26 is departed towards yard
+203.272: crane_1 unloads vessel_1-container_27 from vessel_1 to truck_3
+206.272: truck_1 returns to the berth
+206.272: truck_3 carrying vessel_1-container_27 is departed towards yard
+206.272: crane_1 unloads vessel_1-container_28 from vessel_1 to truck_1
+209.272: truck_2 returns to the berth
+209.272: truck_1 carrying vessel_1-container_28 is departed towards yard
+209.272: crane_1 unloads vessel_1-container_29 from vessel_1 to truck_2
+212.272: truck_3 returns to the berth
+212.272: truck_2 carrying vessel_1-container_29 is departed towards yard
+212.272: crane_1 unloads vessel_1-container_30 from vessel_1 to truck_3
+215.272: truck_1 returns to the berth
+215.272: truck_3 carrying vessel_1-container_30 is departed towards yard
+215.272: crane_1 unloads vessel_1-container_31 from vessel_1 to truck_1
+218.272: truck_2 returns to the berth
+218.272: truck_1 carrying vessel_1-container_31 is departed towards yard
+218.272: crane_1 unloads vessel_1-container_32 from vessel_1 to truck_2
+221.272: truck_3 returns to the berth
+221.272: truck_2 carrying vessel_1-container_32 is departed towards yard
+221.272: crane_1 unloads vessel_1-container_33 from vessel_1 to truck_3
+224.272: truck_1 returns to the berth
+224.272: truck_3 carrying vessel_1-container_33 is departed towards yard
+224.272: crane_1 unloads vessel_1-container_34 from vessel_1 to truck_1
+227.272: truck_2 returns to the berth
+227.272: truck_1 carrying vessel_1-container_34 is departed towards yard
+227.272: crane_1 unloads vessel_1-container_35 from vessel_1 to truck_2
+230.272: truck_3 returns to the berth
+230.272: truck_2 carrying vessel_1-container_35 is departed towards yard
+230.272: crane_1 unloads vessel_1-container_36 from vessel_1 to truck_3
+233.272: truck_1 returns to the berth
+233.272: truck_3 carrying vessel_1-container_36 is departed towards yard
+233.272: crane_1 unloads vessel_1-container_37 from vessel_1 to truck_1
+236.272: truck_2 returns to the berth
+236.272: truck_1 carrying vessel_1-container_37 is departed towards yard
+236.272: crane_1 unloads vessel_1-container_38 from vessel_1 to truck_2
+239.272: truck_3 returns to the berth
+239.272: truck_2 carrying vessel_1-container_38 is departed towards yard
+239.272: crane_1 unloads vessel_1-container_39 from vessel_1 to truck_3
+242.272: truck_1 returns to the berth
+242.272: truck_3 carrying vessel_1-container_39 is departed towards yard
+242.272: crane_1 unloads vessel_1-container_40 from vessel_1 to truck_1
+245.272: truck_2 returns to the berth
+245.272: truck_1 carrying vessel_1-container_40 is departed towards yard
+245.272: crane_1 unloads vessel_1-container_41 from vessel_1 to truck_2
+248.272: truck_3 returns to the berth
+248.272: truck_2 carrying vessel_1-container_41 is departed towards yard
+248.272: crane_1 unloads vessel_1-container_42 from vessel_1 to truck_3
+251.272: truck_1 returns to the berth
+251.272: truck_3 carrying vessel_1-container_42 is departed towards yard
+251.272: crane_1 unloads vessel_1-container_43 from vessel_1 to truck_1
+254.272: truck_2 returns to the berth
+254.272: truck_1 carrying vessel_1-container_43 is departed towards yard
+254.272: crane_1 unloads vessel_1-container_44 from vessel_1 to truck_2
+257.272: truck_3 returns to the berth
+257.272: truck_2 carrying vessel_1-container_44 is departed towards yard
+257.272: crane_1 unloads vessel_1-container_45 from vessel_1 to truck_3
+260.272: truck_1 returns to the berth
+260.272: truck_3 carrying vessel_1-container_45 is departed towards yard
+260.272: crane_1 unloads vessel_1-container_46 from vessel_1 to truck_1
+263.272: truck_2 returns to the berth
+263.272: truck_1 carrying vessel_1-container_46 is departed towards yard
+263.272: crane_1 unloads vessel_1-container_47 from vessel_1 to truck_2
+266.272: truck_3 returns to the berth
+266.272: truck_2 carrying vessel_1-container_47 is departed towards yard
+266.272: crane_1 unloads vessel_1-container_48 from vessel_1 to truck_3
+269.272: truck_1 returns to the berth
+269.272: truck_3 carrying vessel_1-container_48 is departed towards yard
+269.272: crane_1 unloads vessel_1-container_49 from vessel_1 to truck_1
+272.272: truck_2 returns to the berth
+272.272: truck_1 carrying vessel_1-container_49 is departed towards yard
+272.272: crane_1 unloads vessel_1-container_50 from vessel_1 to truck_2
+275.272: truck_3 returns to the berth
+275.272: truck_2 carrying vessel_1-container_50 is departed towards yard
+275.272: crane_1 unloads vessel_1-container_51 from vessel_1 to truck_3
+278.272: truck_1 returns to the berth
+278.272: truck_3 carrying vessel_1-container_51 is departed towards yard
+278.272: crane_1 unloads vessel_1-container_52 from vessel_1 to truck_1
+281.272: truck_2 returns to the berth
+281.272: truck_1 carrying vessel_1-container_52 is departed towards yard
+281.272: crane_1 unloads vessel_1-container_53 from vessel_1 to truck_2
+284.272: truck_3 returns to the berth
+284.272: truck_2 carrying vessel_1-container_53 is departed towards yard
+284.272: crane_1 unloads vessel_1-container_54 from vessel_1 to truck_3
+287.272: truck_1 returns to the berth
+287.272: truck_3 carrying vessel_1-container_54 is departed towards yard
+287.272: crane_1 unloads vessel_1-container_55 from vessel_1 to truck_1
+290.272: truck_2 returns to the berth
+290.272: truck_1 carrying vessel_1-container_55 is departed towards yard
+290.272: crane_1 unloads vessel_1-container_56 from vessel_1 to truck_2
+293.272: truck_3 returns to the berth
+293.272: truck_2 carrying vessel_1-container_56 is departed towards yard
+293.272: crane_1 unloads vessel_1-container_57 from vessel_1 to truck_3
+296.272: truck_1 returns to the berth
+296.272: truck_3 carrying vessel_1-container_57 is departed towards yard
+296.272: crane_1 unloads vessel_1-container_58 from vessel_1 to truck_1
+299.272: truck_2 returns to the berth
+299.272: truck_1 carrying vessel_1-container_58 is departed towards yard
+299.272: crane_1 unloads vessel_1-container_59 from vessel_1 to truck_2
+302.272: truck_3 returns to the berth
+302.272: truck_2 carrying vessel_1-container_59 is departed towards yard
+302.272: crane_1 unloads vessel_1-container_60 from vessel_1 to truck_3
+305.272: truck_1 returns to the berth
+305.272: truck_3 carrying vessel_1-container_60 is departed towards yard
+305.272: crane_1 unloads vessel_1-container_61 from vessel_1 to truck_1
+308.272: truck_2 returns to the berth
+308.272: truck_1 carrying vessel_1-container_61 is departed towards yard
+308.272: crane_1 unloads vessel_1-container_62 from vessel_1 to truck_2
+311.272: truck_3 returns to the berth
+311.272: truck_2 carrying vessel_1-container_62 is departed towards yard
+311.272: crane_1 unloads vessel_1-container_63 from vessel_1 to truck_3
+314.272: truck_1 returns to the berth
+314.272: truck_3 carrying vessel_1-container_63 is departed towards yard
+314.272: crane_1 unloads vessel_1-container_64 from vessel_1 to truck_1
+317.272: truck_2 returns to the berth
+317.272: truck_1 carrying vessel_1-container_64 is departed towards yard
+317.272: crane_1 unloads vessel_1-container_65 from vessel_1 to truck_2
+320.272: truck_3 returns to the berth
+320.272: truck_2 carrying vessel_1-container_65 is departed towards yard
+320.272: crane_1 unloads vessel_1-container_66 from vessel_1 to truck_3
+323.272: truck_1 returns to the berth
+323.272: truck_3 carrying vessel_1-container_66 is departed towards yard
+323.272: crane_1 unloads vessel_1-container_67 from vessel_1 to truck_1
+326.272: truck_2 returns to the berth
+326.272: truck_1 carrying vessel_1-container_67 is departed towards yard
+326.272: crane_1 unloads vessel_1-container_68 from vessel_1 to truck_2
+329.272: truck_3 returns to the berth
+329.272: truck_2 carrying vessel_1-container_68 is departed towards yard
+329.272: crane_1 unloads vessel_1-container_69 from vessel_1 to truck_3
+332.272: truck_1 returns to the berth
+332.272: truck_3 carrying vessel_1-container_69 is departed towards yard
+332.272: crane_1 unloads vessel_1-container_70 from vessel_1 to truck_1
+335.272: truck_2 returns to the berth
+335.272: truck_1 carrying vessel_1-container_70 is departed towards yard
+335.272: crane_1 unloads vessel_1-container_71 from vessel_1 to truck_2
+338.272: truck_3 returns to the berth
+338.272: truck_2 carrying vessel_1-container_71 is departed towards yard
+338.272: crane_1 unloads vessel_1-container_72 from vessel_1 to truck_3
+341.272: truck_1 returns to the berth
+341.272: truck_3 carrying vessel_1-container_72 is departed towards yard
+341.272: crane_1 unloads vessel_1-container_73 from vessel_1 to truck_1
+344.272: truck_2 returns to the berth
+344.272: truck_1 carrying vessel_1-container_73 is departed towards yard
+344.272: crane_1 unloads vessel_1-container_74 from vessel_1 to truck_2
+347.272: truck_3 returns to the berth
+347.272: truck_2 carrying vessel_1-container_74 is departed towards yard
+347.272: crane_1 unloads vessel_1-container_75 from vessel_1 to truck_3
+347.288: vessel_2 arrives and waits for a berth
+347.288: vessel_2 has been assigned to berth_2
+Waiting time for vessel_2: 0.0 minutes
+350.272: truck_1 returns to the berth
+350.272: truck_3 carrying vessel_1-container_75 is departed towards yard
+350.272: crane_2 unloads vessel_2-container_1 from vessel_2 to truck_1
+353.272: truck_2 returns to the berth
+353.272: truck_1 carrying vessel_2-container_1 is departed towards yard
+353.272: crane_1 unloads vessel_1-container_76 from vessel_1 to truck_2
+356.272: truck_3 returns to the berth
+356.272: truck_2 carrying vessel_1-container_76 is departed towards yard
+356.272: crane_2 unloads vessel_2-container_2 from vessel_2 to truck_3
+359.272: truck_1 returns to the berth
+359.272: truck_3 carrying vessel_2-container_2 is departed towards yard
+359.272: crane_1 unloads vessel_1-container_77 from vessel_1 to truck_1
+362.272: truck_2 returns to the berth
+362.272: truck_1 carrying vessel_1-container_77 is departed towards yard
+362.272: crane_2 unloads vessel_2-container_3 from vessel_2 to truck_2
+365.272: truck_3 returns to the berth
+365.272: truck_2 carrying vessel_2-container_3 is departed towards yard
+365.272: crane_1 unloads vessel_1-container_78 from vessel_1 to truck_3
+368.272: truck_1 returns to the berth
+368.272: truck_3 carrying vessel_1-container_78 is departed towards yard
+368.272: crane_2 unloads vessel_2-container_4 from vessel_2 to truck_1
+371.272: truck_2 returns to the berth
+371.272: truck_1 carrying vessel_2-container_4 is departed towards yard
+371.272: crane_1 unloads vessel_1-container_79 from vessel_1 to truck_2
+374.272: truck_3 returns to the berth
+374.272: truck_2 carrying vessel_1-container_79 is departed towards yard
+374.272: crane_2 unloads vessel_2-container_5 from vessel_2 to truck_3
+377.272: truck_1 returns to the berth
+377.272: truck_3 carrying vessel_2-container_5 is departed towards yard
+377.272: crane_1 unloads vessel_1-container_80 from vessel_1 to truck_1
+380.272: truck_2 returns to the berth
+380.272: truck_1 carrying vessel_1-container_80 is departed towards yard
+380.272: crane_2 unloads vessel_2-container_6 from vessel_2 to truck_2
+383.272: truck_3 returns to the berth
+383.272: truck_2 carrying vessel_2-container_6 is departed towards yard
+383.272: crane_1 unloads vessel_1-container_81 from vessel_1 to truck_3
+386.272: truck_1 returns to the berth
+386.272: truck_3 carrying vessel_1-container_81 is departed towards yard
+386.272: crane_2 unloads vessel_2-container_7 from vessel_2 to truck_1
+389.272: truck_2 returns to the berth
+389.272: truck_1 carrying vessel_2-container_7 is departed towards yard
+389.272: crane_1 unloads vessel_1-container_82 from vessel_1 to truck_2
+392.272: truck_3 returns to the berth
+392.272: truck_2 carrying vessel_1-container_82 is departed towards yard
+392.272: crane_2 unloads vessel_2-container_8 from vessel_2 to truck_3
+395.272: truck_1 returns to the berth
+395.272: truck_3 carrying vessel_2-container_8 is departed towards yard
+395.272: crane_1 unloads vessel_1-container_83 from vessel_1 to truck_1
+398.272: truck_2 returns to the berth
+398.272: truck_1 carrying vessel_1-container_83 is departed towards yard
+398.272: crane_2 unloads vessel_2-container_9 from vessel_2 to truck_2
+401.272: truck_3 returns to the berth
+401.272: truck_2 carrying vessel_2-container_9 is departed towards yard
+401.272: crane_1 unloads vessel_1-container_84 from vessel_1 to truck_3
+404.272: truck_1 returns to the berth
+404.272: truck_3 carrying vessel_1-container_84 is departed towards yard
+404.272: crane_2 unloads vessel_2-container_10 from vessel_2 to truck_1
+407.272: truck_2 returns to the berth
+407.272: truck_1 carrying vessel_2-container_10 is departed towards yard
+407.272: crane_1 unloads vessel_1-container_85 from vessel_1 to truck_2
+410.272: truck_3 returns to the berth
+410.272: truck_2 carrying vessel_1-container_85 is departed towards yard
+410.272: crane_2 unloads vessel_2-container_11 from vessel_2 to truck_3
+413.272: truck_1 returns to the berth
+413.272: truck_3 carrying vessel_2-container_11 is departed towards yard
+413.272: crane_1 unloads vessel_1-container_86 from vessel_1 to truck_1
+416.272: truck_2 returns to the berth
+416.272: truck_1 carrying vessel_1-container_86 is departed towards yard
+416.272: crane_2 unloads vessel_2-container_12 from vessel_2 to truck_2
+419.272: truck_3 returns to the berth
+419.272: truck_2 carrying vessel_2-container_12 is departed towards yard
+419.272: crane_1 unloads vessel_1-container_87 from vessel_1 to truck_3
+422.272: truck_1 returns to the berth
+422.272: truck_3 carrying vessel_1-container_87 is departed towards yard
+422.272: crane_2 unloads vessel_2-container_13 from vessel_2 to truck_1
+425.272: truck_2 returns to the berth
+425.272: truck_1 carrying vessel_2-container_13 is departed towards yard
+425.272: crane_1 unloads vessel_1-container_88 from vessel_1 to truck_2
+428.272: truck_3 returns to the berth
+428.272: truck_2 carrying vessel_1-container_88 is departed towards yard
+428.272: crane_2 unloads vessel_2-container_14 from vessel_2 to truck_3
+431.272: truck_1 returns to the berth
+431.272: truck_3 carrying vessel_2-container_14 is departed towards yard
+431.272: crane_1 unloads vessel_1-container_89 from vessel_1 to truck_1
+434.272: truck_2 returns to the berth
+434.272: truck_1 carrying vessel_1-container_89 is departed towards yard
+434.272: crane_2 unloads vessel_2-container_15 from vessel_2 to truck_2
+437.272: truck_3 returns to the berth
+437.272: truck_2 carrying vessel_2-container_15 is departed towards yard
+437.272: crane_1 unloads vessel_1-container_90 from vessel_1 to truck_3
+440.272: truck_1 returns to the berth
+440.272: truck_3 carrying vessel_1-container_90 is departed towards yard
+440.272: crane_2 unloads vessel_2-container_16 from vessel_2 to truck_1
+443.272: truck_2 returns to the berth
+443.272: truck_1 carrying vessel_2-container_16 is departed towards yard
+443.272: crane_1 unloads vessel_1-container_91 from vessel_1 to truck_2
+446.272: truck_3 returns to the berth
+446.272: truck_2 carrying vessel_1-container_91 is departed towards yard
+446.272: crane_2 unloads vessel_2-container_17 from vessel_2 to truck_3
+449.272: truck_1 returns to the berth
+449.272: truck_3 carrying vessel_2-container_17 is departed towards yard
+449.272: crane_1 unloads vessel_1-container_92 from vessel_1 to truck_1
+452.272: truck_2 returns to the berth
+452.272: truck_1 carrying vessel_1-container_92 is departed towards yard
+452.272: crane_2 unloads vessel_2-container_18 from vessel_2 to truck_2
+455.272: truck_3 returns to the berth
+455.272: truck_2 carrying vessel_2-container_18 is departed towards yard
+455.272: crane_1 unloads vessel_1-container_93 from vessel_1 to truck_3
+458.272: truck_1 returns to the berth
+458.272: truck_3 carrying vessel_1-container_93 is departed towards yard
+458.272: crane_2 unloads vessel_2-container_19 from vessel_2 to truck_1
+461.272: truck_2 returns to the berth
+461.272: truck_1 carrying vessel_2-container_19 is departed towards yard
+461.272: crane_1 unloads vessel_1-container_94 from vessel_1 to truck_2
+464.272: truck_3 returns to the berth
+464.272: truck_2 carrying vessel_1-container_94 is departed towards yard
+464.272: crane_2 unloads vessel_2-container_20 from vessel_2 to truck_3
+467.272: truck_1 returns to the berth
+467.272: truck_3 carrying vessel_2-container_20 is departed towards yard
+467.272: crane_1 unloads vessel_1-container_95 from vessel_1 to truck_1
+470.272: truck_2 returns to the berth
+470.272: truck_1 carrying vessel_1-container_95 is departed towards yard
+470.272: crane_2 unloads vessel_2-container_21 from vessel_2 to truck_2
+473.272: truck_3 returns to the berth
+473.272: truck_2 carrying vessel_2-container_21 is departed towards yard
+473.272: crane_1 unloads vessel_1-container_96 from vessel_1 to truck_3
+476.272: truck_1 returns to the berth
+476.272: truck_3 carrying vessel_1-container_96 is departed towards yard
+476.272: crane_2 unloads vessel_2-container_22 from vessel_2 to truck_1
+479.272: truck_2 returns to the berth
+479.272: truck_1 carrying vessel_2-container_22 is departed towards yard
+479.272: crane_1 unloads vessel_1-container_97 from vessel_1 to truck_2
+482.272: truck_3 returns to the berth
+482.272: truck_2 carrying vessel_1-container_97 is departed towards yard
+482.272: crane_2 unloads vessel_2-container_23 from vessel_2 to truck_3
+485.272: truck_1 returns to the berth
+485.272: truck_3 carrying vessel_2-container_23 is departed towards yard
+485.272: crane_1 unloads vessel_1-container_98 from vessel_1 to truck_1
+488.272: truck_2 returns to the berth
+488.272: truck_1 carrying vessel_1-container_98 is departed towards yard
+488.272: crane_2 unloads vessel_2-container_24 from vessel_2 to truck_2
+491.272: truck_3 returns to the berth
+491.272: truck_2 carrying vessel_2-container_24 is departed towards yard
+491.272: crane_1 unloads vessel_1-container_99 from vessel_1 to truck_3
+494.272: truck_1 returns to the berth
+494.272: truck_3 carrying vessel_1-container_99 is departed towards yard
+494.272: crane_2 unloads vessel_2-container_25 from vessel_2 to truck_1
+497.272: truck_2 returns to the berth
+497.272: truck_1 carrying vessel_2-container_25 is departed towards yard
+497.272: crane_1 unloads vessel_1-container_100 from vessel_1 to truck_2
+500.272: truck_3 returns to the berth
+500.272: truck_2 carrying vessel_1-container_100 is departed towards yard
+500.272: crane_2 unloads vessel_2-container_26 from vessel_2 to truck_3
+503.272: truck_1 returns to the berth
+503.272: truck_3 carrying vessel_2-container_26 is departed towards yard
+503.272: crane_1 unloads vessel_1-container_101 from vessel_1 to truck_1
+506.272: truck_2 returns to the berth
+506.272: truck_1 carrying vessel_1-container_101 is departed towards yard
+506.272: crane_2 unloads vessel_2-container_27 from vessel_2 to truck_2
+509.272: truck_3 returns to the berth
+509.272: truck_2 carrying vessel_2-container_27 is departed towards yard
+509.272: crane_1 unloads vessel_1-container_102 from vessel_1 to truck_3
+512.272: truck_1 returns to the berth
+512.272: truck_3 carrying vessel_1-container_102 is departed towards yard
+512.272: crane_2 unloads vessel_2-container_28 from vessel_2 to truck_1
+515.272: truck_2 returns to the berth
+515.272: truck_1 carrying vessel_2-container_28 is departed towards yard
+515.272: crane_1 unloads vessel_1-container_103 from vessel_1 to truck_2
+518.272: truck_3 returns to the berth
+518.272: truck_2 carrying vessel_1-container_103 is departed towards yard
+518.272: crane_2 unloads vessel_2-container_29 from vessel_2 to truck_3
+521.272: truck_1 returns to the berth
+521.272: truck_3 carrying vessel_2-container_29 is departed towards yard
+521.272: crane_1 unloads vessel_1-container_104 from vessel_1 to truck_1
+524.272: truck_2 returns to the berth
+524.272: truck_1 carrying vessel_1-container_104 is departed towards yard
+524.272: crane_2 unloads vessel_2-container_30 from vessel_2 to truck_2
+527.272: truck_3 returns to the berth
+527.272: truck_2 carrying vessel_2-container_30 is departed towards yard
+527.272: crane_1 unloads vessel_1-container_105 from vessel_1 to truck_3
+530.272: truck_1 returns to the berth
+530.272: truck_3 carrying vessel_1-container_105 is departed towards yard
+530.272: crane_2 unloads vessel_2-container_31 from vessel_2 to truck_1
+533.272: truck_2 returns to the berth
+533.272: truck_1 carrying vessel_2-container_31 is departed towards yard
+533.272: crane_1 unloads vessel_1-container_106 from vessel_1 to truck_2
+536.272: truck_3 returns to the berth
+536.272: truck_2 carrying vessel_1-container_106 is departed towards yard
+536.272: crane_2 unloads vessel_2-container_32 from vessel_2 to truck_3
+539.272: truck_1 returns to the berth
+539.272: truck_3 carrying vessel_2-container_32 is departed towards yard
+539.272: crane_1 unloads vessel_1-container_107 from vessel_1 to truck_1
+542.272: truck_2 returns to the berth
+542.272: truck_1 carrying vessel_1-container_107 is departed towards yard
+542.272: crane_2 unloads vessel_2-container_33 from vessel_2 to truck_2
+545.272: truck_3 returns to the berth
+545.272: truck_2 carrying vessel_2-container_33 is departed towards yard
+545.272: crane_1 unloads vessel_1-container_108 from vessel_1 to truck_3
+548.272: truck_1 returns to the berth
+548.272: truck_3 carrying vessel_1-container_108 is departed towards yard
+548.272: crane_2 unloads vessel_2-container_34 from vessel_2 to truck_1
+551.272: truck_2 returns to the berth
+551.272: truck_1 carrying vessel_2-container_34 is departed towards yard
+551.272: crane_1 unloads vessel_1-container_109 from vessel_1 to truck_2
+554.272: truck_3 returns to the berth
+554.272: truck_2 carrying vessel_1-container_109 is departed towards yard
+554.272: crane_2 unloads vessel_2-container_35 from vessel_2 to truck_3
+557.272: truck_1 returns to the berth
+557.272: truck_3 carrying vessel_2-container_35 is departed towards yard
+557.272: crane_1 unloads vessel_1-container_110 from vessel_1 to truck_1
+560.272: truck_2 returns to the berth
+560.272: truck_1 carrying vessel_1-container_110 is departed towards yard
+560.272: crane_2 unloads vessel_2-container_36 from vessel_2 to truck_2
+563.272: truck_3 returns to the berth
+563.272: truck_2 carrying vessel_2-container_36 is departed towards yard
+563.272: crane_1 unloads vessel_1-container_111 from vessel_1 to truck_3
+566.272: truck_1 returns to the berth
+566.272: truck_3 carrying vessel_1-container_111 is departed towards yard
+566.272: crane_2 unloads vessel_2-container_37 from vessel_2 to truck_1
+569.272: truck_2 returns to the berth
+569.272: truck_1 carrying vessel_2-container_37 is departed towards yard
+569.272: crane_1 unloads vessel_1-container_112 from vessel_1 to truck_2
+572.272: truck_3 returns to the berth
+572.272: truck_2 carrying vessel_1-container_112 is departed towards yard
+572.272: crane_2 unloads vessel_2-container_38 from vessel_2 to truck_3
+575.272: truck_1 returns to the berth
+575.272: truck_3 carrying vessel_2-container_38 is departed towards yard
+575.272: crane_1 unloads vessel_1-container_113 from vessel_1 to truck_1
+578.272: truck_2 returns to the berth
+578.272: truck_1 carrying vessel_1-container_113 is departed towards yard
+578.272: crane_2 unloads vessel_2-container_39 from vessel_2 to truck_2
+581.272: truck_3 returns to the berth
+581.272: truck_2 carrying vessel_2-container_39 is departed towards yard
+581.272: crane_1 unloads vessel_1-container_114 from vessel_1 to truck_3
+584.272: truck_1 returns to the berth
+584.272: truck_3 carrying vessel_1-container_114 is departed towards yard
+584.272: crane_2 unloads vessel_2-container_40 from vessel_2 to truck_1
+587.272: truck_2 returns to the berth
+587.272: truck_1 carrying vessel_2-container_40 is departed towards yard
+587.272: crane_1 unloads vessel_1-container_115 from vessel_1 to truck_2
+590.272: truck_3 returns to the berth
+590.272: truck_2 carrying vessel_1-container_115 is departed towards yard
+590.272: crane_2 unloads vessel_2-container_41 from vessel_2 to truck_3
+593.272: truck_1 returns to the berth
+593.272: truck_3 carrying vessel_2-container_41 is departed towards yard
+593.272: crane_1 unloads vessel_1-container_116 from vessel_1 to truck_1
+596.272: truck_2 returns to the berth
+596.272: truck_1 carrying vessel_1-container_116 is departed towards yard
+596.272: crane_2 unloads vessel_2-container_42 from vessel_2 to truck_2
+599.272: truck_3 returns to the berth
+599.272: truck_2 carrying vessel_2-container_42 is departed towards yard
+599.272: crane_1 unloads vessel_1-container_117 from vessel_1 to truck_3
+602.272: truck_1 returns to the berth
+602.272: truck_3 carrying vessel_1-container_117 is departed towards yard
+602.272: crane_2 unloads vessel_2-container_43 from vessel_2 to truck_1
+605.272: truck_2 returns to the berth
+605.272: truck_1 carrying vessel_2-container_43 is departed towards yard
+605.272: crane_1 unloads vessel_1-container_118 from vessel_1 to truck_2
+607.682: vessel_3 arrives and waits for a berth
+608.272: truck_3 returns to the berth
+608.272: truck_2 carrying vessel_1-container_118 is departed towards yard
+608.272: crane_2 unloads vessel_2-container_44 from vessel_2 to truck_3
+611.272: truck_1 returns to the berth
+611.272: truck_3 carrying vessel_2-container_44 is departed towards yard
+611.272: crane_1 unloads vessel_1-container_119 from vessel_1 to truck_1
+614.272: truck_2 returns to the berth
+614.272: truck_1 carrying vessel_1-container_119 is departed towards yard
+614.272: crane_2 unloads vessel_2-container_45 from vessel_2 to truck_2
+617.272: truck_3 returns to the berth
+617.272: truck_2 carrying vessel_2-container_45 is departed towards yard
+617.272: crane_1 unloads vessel_1-container_120 from vessel_1 to truck_3
+620.272: truck_1 returns to the berth
+620.272: truck_3 carrying vessel_1-container_120 is departed towards yard
+620.272: crane_2 unloads vessel_2-container_46 from vessel_2 to truck_1
+623.272: truck_2 returns to the berth
+623.272: truck_1 carrying vessel_2-container_46 is departed towards yard
+623.272: crane_1 unloads vessel_1-container_121 from vessel_1 to truck_2
+626.272: truck_3 returns to the berth
+626.272: truck_2 carrying vessel_1-container_121 is departed towards yard
+626.272: crane_2 unloads vessel_2-container_47 from vessel_2 to truck_3
+629.272: truck_1 returns to the berth
+629.272: truck_3 carrying vessel_2-container_47 is departed towards yard
+629.272: crane_1 unloads vessel_1-container_122 from vessel_1 to truck_1
+632.272: truck_2 returns to the berth
+632.272: truck_1 carrying vessel_1-container_122 is departed towards yard
+632.272: crane_2 unloads vessel_2-container_48 from vessel_2 to truck_2
+635.272: truck_3 returns to the berth
+635.272: truck_2 carrying vessel_2-container_48 is departed towards yard
+635.272: crane_1 unloads vessel_1-container_123 from vessel_1 to truck_3
+638.272: truck_1 returns to the berth
+638.272: truck_3 carrying vessel_1-container_123 is departed towards yard
+638.272: crane_2 unloads vessel_2-container_49 from vessel_2 to truck_1
+641.272: truck_2 returns to the berth
+641.272: truck_1 carrying vessel_2-container_49 is departed towards yard
+641.272: crane_1 unloads vessel_1-container_124 from vessel_1 to truck_2
+644.272: truck_3 returns to the berth
+644.272: truck_2 carrying vessel_1-container_124 is departed towards yard
+644.272: crane_2 unloads vessel_2-container_50 from vessel_2 to truck_3
+647.272: truck_1 returns to the berth
+647.272: truck_3 carrying vessel_2-container_50 is departed towards yard
+647.272: crane_1 unloads vessel_1-container_125 from vessel_1 to truck_1
+650.272: truck_2 returns to the berth
+650.272: truck_1 carrying vessel_1-container_125 is departed towards yard
+650.272: crane_2 unloads vessel_2-container_51 from vessel_2 to truck_2
+653.272: truck_3 returns to the berth
+653.272: truck_2 carrying vessel_2-container_51 is departed towards yard
+653.272: crane_1 unloads vessel_1-container_126 from vessel_1 to truck_3
+656.272: truck_1 returns to the berth
+656.272: truck_3 carrying vessel_1-container_126 is departed towards yard
+656.272: crane_2 unloads vessel_2-container_52 from vessel_2 to truck_1
+659.272: truck_2 returns to the berth
+659.272: truck_1 carrying vessel_2-container_52 is departed towards yard
+659.272: crane_1 unloads vessel_1-container_127 from vessel_1 to truck_2
+662.272: truck_3 returns to the berth
+662.272: truck_2 carrying vessel_1-container_127 is departed towards yard
+662.272: crane_2 unloads vessel_2-container_53 from vessel_2 to truck_3
+665.272: truck_1 returns to the berth
+665.272: truck_3 carrying vessel_2-container_53 is departed towards yard
+665.272: crane_1 unloads vessel_1-container_128 from vessel_1 to truck_1
+668.272: truck_2 returns to the berth
+668.272: truck_1 carrying vessel_1-container_128 is departed towards yard
+668.272: crane_2 unloads vessel_2-container_54 from vessel_2 to truck_2
+671.272: truck_3 returns to the berth
+671.272: truck_2 carrying vessel_2-container_54 is departed towards yard
+671.272: crane_1 unloads vessel_1-container_129 from vessel_1 to truck_3
+674.272: truck_1 returns to the berth
+674.272: truck_3 carrying vessel_1-container_129 is departed towards yard
+674.272: crane_2 unloads vessel_2-container_55 from vessel_2 to truck_1
+677.272: truck_2 returns to the berth
+677.272: truck_1 carrying vessel_2-container_55 is departed towards yard
+677.272: crane_1 unloads vessel_1-container_130 from vessel_1 to truck_2
+680.272: truck_3 returns to the berth
+680.272: truck_2 carrying vessel_1-container_130 is departed towards yard
+680.272: crane_2 unloads vessel_2-container_56 from vessel_2 to truck_3
+683.272: truck_1 returns to the berth
+683.272: truck_3 carrying vessel_2-container_56 is departed towards yard
+683.272: crane_1 unloads vessel_1-container_131 from vessel_1 to truck_1
+686.272: truck_2 returns to the berth
+686.272: truck_1 carrying vessel_1-container_131 is departed towards yard
+686.272: crane_2 unloads vessel_2-container_57 from vessel_2 to truck_2
+689.272: truck_3 returns to the berth
+689.272: truck_2 carrying vessel_2-container_57 is departed towards yard
+689.272: crane_1 unloads vessel_1-container_132 from vessel_1 to truck_3
+692.272: truck_1 returns to the berth
+692.272: truck_3 carrying vessel_1-container_132 is departed towards yard
+692.272: crane_2 unloads vessel_2-container_58 from vessel_2 to truck_1
+695.272: truck_2 returns to the berth
+695.272: truck_1 carrying vessel_2-container_58 is departed towards yard
+695.272: crane_1 unloads vessel_1-container_133 from vessel_1 to truck_2
+697.357: vessel_4 arrives and waits for a berth
+698.272: truck_3 returns to the berth
+698.272: truck_2 carrying vessel_1-container_133 is departed towards yard
+698.272: crane_2 unloads vessel_2-container_59 from vessel_2 to truck_3
+701.272: truck_1 returns to the berth
+701.272: truck_3 carrying vessel_2-container_59 is departed towards yard
+701.272: crane_1 unloads vessel_1-container_134 from vessel_1 to truck_1
+704.272: truck_2 returns to the berth
+704.272: truck_1 carrying vessel_1-container_134 is departed towards yard
+704.272: crane_2 unloads vessel_2-container_60 from vessel_2 to truck_2
+707.272: truck_3 returns to the berth
+707.272: truck_2 carrying vessel_2-container_60 is departed towards yard
+707.272: crane_1 unloads vessel_1-container_135 from vessel_1 to truck_3
+710.272: truck_1 returns to the berth
+710.272: truck_3 carrying vessel_1-container_135 is departed towards yard
+710.272: crane_2 unloads vessel_2-container_61 from vessel_2 to truck_1
+713.272: truck_2 returns to the berth
+713.272: truck_1 carrying vessel_2-container_61 is departed towards yard
+713.272: crane_1 unloads vessel_1-container_136 from vessel_1 to truck_2
+716.272: truck_3 returns to the berth
+716.272: truck_2 carrying vessel_1-container_136 is departed towards yard
+716.272: crane_2 unloads vessel_2-container_62 from vessel_2 to truck_3
+719.272: truck_1 returns to the berth
+719.272: truck_3 carrying vessel_2-container_62 is departed towards yard
+719.272: crane_1 unloads vessel_1-container_137 from vessel_1 to truck_1
+722.272: truck_2 returns to the berth
+722.272: truck_1 carrying vessel_1-container_137 is departed towards yard
+722.272: crane_2 unloads vessel_2-container_63 from vessel_2 to truck_2
+725.272: truck_3 returns to the berth
+725.272: truck_2 carrying vessel_2-container_63 is departed towards yard
+725.272: crane_1 unloads vessel_1-container_138 from vessel_1 to truck_3
+728.272: truck_1 returns to the berth
+728.272: truck_3 carrying vessel_1-container_138 is departed towards yard
+728.272: crane_2 unloads vessel_2-container_64 from vessel_2 to truck_1
+731.272: truck_2 returns to the berth
+731.272: truck_1 carrying vessel_2-container_64 is departed towards yard
+731.272: crane_1 unloads vessel_1-container_139 from vessel_1 to truck_2
+734.272: truck_3 returns to the berth
+734.272: truck_2 carrying vessel_1-container_139 is departed towards yard
+734.272: crane_2 unloads vessel_2-container_65 from vessel_2 to truck_3
+737.272: truck_1 returns to the berth
+737.272: truck_3 carrying vessel_2-container_65 is departed towards yard
+737.272: crane_1 unloads vessel_1-container_140 from vessel_1 to truck_1
+740.272: truck_2 returns to the berth
+740.272: truck_1 carrying vessel_1-container_140 is departed towards yard
+740.272: crane_2 unloads vessel_2-container_66 from vessel_2 to truck_2
+743.272: truck_3 returns to the berth
+743.272: truck_2 carrying vessel_2-container_66 is departed towards yard
+743.272: crane_1 unloads vessel_1-container_141 from vessel_1 to truck_3
+746.272: truck_1 returns to the berth
+746.272: truck_3 carrying vessel_1-container_141 is departed towards yard
+746.272: crane_2 unloads vessel_2-container_67 from vessel_2 to truck_1
+749.272: truck_2 returns to the berth
+749.272: truck_1 carrying vessel_2-container_67 is departed towards yard
+749.272: crane_1 unloads vessel_1-container_142 from vessel_1 to truck_2
+752.272: truck_3 returns to the berth
+752.272: truck_2 carrying vessel_1-container_142 is departed towards yard
+752.272: crane_2 unloads vessel_2-container_68 from vessel_2 to truck_3
+755.272: truck_1 returns to the berth
+755.272: truck_3 carrying vessel_2-container_68 is departed towards yard
+755.272: crane_1 unloads vessel_1-container_143 from vessel_1 to truck_1
+758.272: truck_2 returns to the berth
+758.272: truck_1 carrying vessel_1-container_143 is departed towards yard
+758.272: crane_2 unloads vessel_2-container_69 from vessel_2 to truck_2
+761.272: truck_3 returns to the berth
+761.272: truck_2 carrying vessel_2-container_69 is departed towards yard
+761.272: crane_1 unloads vessel_1-container_144 from vessel_1 to truck_3
+764.272: truck_1 returns to the berth
+764.272: truck_3 carrying vessel_1-container_144 is departed towards yard
+764.272: crane_2 unloads vessel_2-container_70 from vessel_2 to truck_1
+767.272: truck_2 returns to the berth
+767.272: truck_1 carrying vessel_2-container_70 is departed towards yard
+767.272: crane_1 unloads vessel_1-container_145 from vessel_1 to truck_2
+770.272: truck_3 returns to the berth
+770.272: truck_2 carrying vessel_1-container_145 is departed towards yard
+770.272: crane_2 unloads vessel_2-container_71 from vessel_2 to truck_3
+773.272: truck_1 returns to the berth
+773.272: truck_3 carrying vessel_2-container_71 is departed towards yard
+773.272: crane_1 unloads vessel_1-container_146 from vessel_1 to truck_1
+776.272: truck_2 returns to the berth
+776.272: truck_1 carrying vessel_1-container_146 is departed towards yard
+776.272: crane_2 unloads vessel_2-container_72 from vessel_2 to truck_2
+779.272: truck_3 returns to the berth
+779.272: truck_2 carrying vessel_2-container_72 is departed towards yard
+779.272: crane_1 unloads vessel_1-container_147 from vessel_1 to truck_3
+782.272: truck_1 returns to the berth
+782.272: truck_3 carrying vessel_1-container_147 is departed towards yard
+782.272: crane_2 unloads vessel_2-container_73 from vessel_2 to truck_1
+785.272: truck_2 returns to the berth
+785.272: truck_1 carrying vessel_2-container_73 is departed towards yard
+785.272: crane_1 unloads vessel_1-container_148 from vessel_1 to truck_2
+788.272: truck_3 returns to the berth
+788.272: truck_2 carrying vessel_1-container_148 is departed towards yard
+788.272: crane_2 unloads vessel_2-container_74 from vessel_2 to truck_3
+791.272: truck_1 returns to the berth
+791.272: truck_3 carrying vessel_2-container_74 is departed towards yard
+791.272: crane_1 unloads vessel_1-container_149 from vessel_1 to truck_1
+794.272: truck_2 returns to the berth
+794.272: truck_1 carrying vessel_1-container_149 is departed towards yard
+794.272: crane_2 unloads vessel_2-container_75 from vessel_2 to truck_2
+797.272: truck_3 returns to the berth
+797.272: truck_2 carrying vessel_2-container_75 is departed towards yard
+797.272: crane_1 unloads vessel_1-container_150 from vessel_1 to truck_3
+800.272: truck_1 returns to the berth
+800.272: truck_3 carrying vessel_1-container_150 is departed towards yard
+800.272: vessel_1 has finished unloading. Duration: 675.0 minutes
+800.272: vessel_1 leaves berth_1
+800.272: crane_2 unloads vessel_2-container_76 from vessel_2 to truck_1
+800.272: vessel_3 has been assigned to berth_1
+Waiting time for vessel_3: 192.59 minutes
+803.272: truck_2 returns to the berth
+803.272: truck_1 carrying vessel_2-container_76 is departed towards yard
+803.272: crane_1 unloads vessel_3-container_1 from vessel_3 to truck_2
+806.272: truck_3 returns to the berth
+806.272: truck_2 carrying vessel_3-container_1 is departed towards yard
+806.272: crane_2 unloads vessel_2-container_77 from vessel_2 to truck_3
+809.272: truck_1 returns to the berth
+809.272: truck_3 carrying vessel_2-container_77 is departed towards yard
+809.272: crane_1 unloads vessel_3-container_2 from vessel_3 to truck_1
+812.272: truck_2 returns to the berth
+812.272: truck_1 carrying vessel_3-container_2 is departed towards yard
+812.272: crane_2 unloads vessel_2-container_78 from vessel_2 to truck_2
+815.272: truck_3 returns to the berth
+815.272: truck_2 carrying vessel_2-container_78 is departed towards yard
+815.272: crane_1 unloads vessel_3-container_3 from vessel_3 to truck_3
+818.272: truck_1 returns to the berth
+818.272: truck_3 carrying vessel_3-container_3 is departed towards yard
+818.272: crane_2 unloads vessel_2-container_79 from vessel_2 to truck_1
+821.272: truck_2 returns to the berth
+821.272: truck_1 carrying vessel_2-container_79 is departed towards yard
+821.272: crane_1 unloads vessel_3-container_4 from vessel_3 to truck_2
+824.272: truck_3 returns to the berth
+824.272: truck_2 carrying vessel_3-container_4 is departed towards yard
+824.272: crane_2 unloads vessel_2-container_80 from vessel_2 to truck_3
+827.272: truck_1 returns to the berth
+827.272: truck_3 carrying vessel_2-container_80 is departed towards yard
+827.272: crane_1 unloads vessel_3-container_5 from vessel_3 to truck_1
+830.272: truck_2 returns to the berth
+830.272: truck_1 carrying vessel_3-container_5 is departed towards yard
+830.272: crane_2 unloads vessel_2-container_81 from vessel_2 to truck_2
+833.272: truck_3 returns to the berth
+833.272: truck_2 carrying vessel_2-container_81 is departed towards yard
+833.272: crane_1 unloads vessel_3-container_6 from vessel_3 to truck_3
+836.272: truck_1 returns to the berth
+836.272: truck_3 carrying vessel_3-container_6 is departed towards yard
+836.272: crane_2 unloads vessel_2-container_82 from vessel_2 to truck_1
+839.272: truck_2 returns to the berth
+839.272: truck_1 carrying vessel_2-container_82 is departed towards yard
+839.272: crane_1 unloads vessel_3-container_7 from vessel_3 to truck_2
+842.272: truck_3 returns to the berth
+842.272: truck_2 carrying vessel_3-container_7 is departed towards yard
+842.272: crane_2 unloads vessel_2-container_83 from vessel_2 to truck_3
+845.272: truck_1 returns to the berth
+845.272: truck_3 carrying vessel_2-container_83 is departed towards yard
+845.272: crane_1 unloads vessel_3-container_8 from vessel_3 to truck_1
+848.272: truck_2 returns to the berth
+848.272: truck_1 carrying vessel_3-container_8 is departed towards yard
+848.272: crane_2 unloads vessel_2-container_84 from vessel_2 to truck_2
+851.272: truck_3 returns to the berth
+851.272: truck_2 carrying vessel_2-container_84 is departed towards yard
+851.272: crane_1 unloads vessel_3-container_9 from vessel_3 to truck_3
+854.272: truck_1 returns to the berth
+854.272: truck_3 carrying vessel_3-container_9 is departed towards yard
+854.272: crane_2 unloads vessel_2-container_85 from vessel_2 to truck_1
+857.272: truck_2 returns to the berth
+857.272: truck_1 carrying vessel_2-container_85 is departed towards yard
+857.272: crane_1 unloads vessel_3-container_10 from vessel_3 to truck_2
+860.272: truck_3 returns to the berth
+860.272: truck_2 carrying vessel_3-container_10 is departed towards yard
+860.272: crane_2 unloads vessel_2-container_86 from vessel_2 to truck_3
+863.272: truck_1 returns to the berth
+863.272: truck_3 carrying vessel_2-container_86 is departed towards yard
+863.272: crane_1 unloads vessel_3-container_11 from vessel_3 to truck_1
+866.272: truck_2 returns to the berth
+866.272: truck_1 carrying vessel_3-container_11 is departed towards yard
+866.272: crane_2 unloads vessel_2-container_87 from vessel_2 to truck_2
+869.272: truck_3 returns to the berth
+869.272: truck_2 carrying vessel_2-container_87 is departed towards yard
+869.272: crane_1 unloads vessel_3-container_12 from vessel_3 to truck_3
+872.272: truck_1 returns to the berth
+872.272: truck_3 carrying vessel_3-container_12 is departed towards yard
+872.272: crane_2 unloads vessel_2-container_88 from vessel_2 to truck_1
+875.272: truck_2 returns to the berth
+875.272: truck_1 carrying vessel_2-container_88 is departed towards yard
+875.272: crane_1 unloads vessel_3-container_13 from vessel_3 to truck_2
+878.272: truck_3 returns to the berth
+878.272: truck_2 carrying vessel_3-container_13 is departed towards yard
+878.272: crane_2 unloads vessel_2-container_89 from vessel_2 to truck_3
+881.272: truck_1 returns to the berth
+881.272: truck_3 carrying vessel_2-container_89 is departed towards yard
+881.272: crane_1 unloads vessel_3-container_14 from vessel_3 to truck_1
+884.272: truck_2 returns to the berth
+884.272: truck_1 carrying vessel_3-container_14 is departed towards yard
+884.272: crane_2 unloads vessel_2-container_90 from vessel_2 to truck_2
+886.462: vessel_5 arrives and waits for a berth
+887.272: truck_3 returns to the berth
+887.272: truck_2 carrying vessel_2-container_90 is departed towards yard
+887.272: crane_1 unloads vessel_3-container_15 from vessel_3 to truck_3
+890.272: truck_1 returns to the berth
+890.272: truck_3 carrying vessel_3-container_15 is departed towards yard
+890.272: crane_2 unloads vessel_2-container_91 from vessel_2 to truck_1
+893.272: truck_2 returns to the berth
+893.272: truck_1 carrying vessel_2-container_91 is departed towards yard
+893.272: crane_1 unloads vessel_3-container_16 from vessel_3 to truck_2
+896.272: truck_3 returns to the berth
+896.272: truck_2 carrying vessel_3-container_16 is departed towards yard
+896.272: crane_2 unloads vessel_2-container_92 from vessel_2 to truck_3
+899.272: truck_1 returns to the berth
+899.272: truck_3 carrying vessel_2-container_92 is departed towards yard
+899.272: crane_1 unloads vessel_3-container_17 from vessel_3 to truck_1
+902.272: truck_2 returns to the berth
+902.272: truck_1 carrying vessel_3-container_17 is departed towards yard
+902.272: crane_2 unloads vessel_2-container_93 from vessel_2 to truck_2
+905.272: truck_3 returns to the berth
+905.272: truck_2 carrying vessel_2-container_93 is departed towards yard
+905.272: crane_1 unloads vessel_3-container_18 from vessel_3 to truck_3
+908.272: truck_1 returns to the berth
+908.272: truck_3 carrying vessel_3-container_18 is departed towards yard
+908.272: crane_2 unloads vessel_2-container_94 from vessel_2 to truck_1
+911.272: truck_2 returns to the berth
+911.272: truck_1 carrying vessel_2-container_94 is departed towards yard
+911.272: crane_1 unloads vessel_3-container_19 from vessel_3 to truck_2
+914.272: truck_3 returns to the berth
+914.272: truck_2 carrying vessel_3-container_19 is departed towards yard
+914.272: crane_2 unloads vessel_2-container_95 from vessel_2 to truck_3
+917.272: truck_1 returns to the berth
+917.272: truck_3 carrying vessel_2-container_95 is departed towards yard
+917.272: crane_1 unloads vessel_3-container_20 from vessel_3 to truck_1
+920.272: truck_2 returns to the berth
+920.272: truck_1 carrying vessel_3-container_20 is departed towards yard
+920.272: crane_2 unloads vessel_2-container_96 from vessel_2 to truck_2
+923.272: truck_3 returns to the berth
+923.272: truck_2 carrying vessel_2-container_96 is departed towards yard
+923.272: crane_1 unloads vessel_3-container_21 from vessel_3 to truck_3
+926.272: truck_1 returns to the berth
+926.272: truck_3 carrying vessel_3-container_21 is departed towards yard
+926.272: crane_2 unloads vessel_2-container_97 from vessel_2 to truck_1
+929.272: truck_2 returns to the berth
+929.272: truck_1 carrying vessel_2-container_97 is departed towards yard
+929.272: crane_1 unloads vessel_3-container_22 from vessel_3 to truck_2
+932.272: truck_3 returns to the berth
+932.272: truck_2 carrying vessel_3-container_22 is departed towards yard
+932.272: crane_2 unloads vessel_2-container_98 from vessel_2 to truck_3
+935.272: truck_1 returns to the berth
+935.272: truck_3 carrying vessel_2-container_98 is departed towards yard
+935.272: crane_1 unloads vessel_3-container_23 from vessel_3 to truck_1
+938.272: truck_2 returns to the berth
+938.272: truck_1 carrying vessel_3-container_23 is departed towards yard
+938.272: crane_2 unloads vessel_2-container_99 from vessel_2 to truck_2
+941.272: truck_3 returns to the berth
+941.272: truck_2 carrying vessel_2-container_99 is departed towards yard
+941.272: crane_1 unloads vessel_3-container_24 from vessel_3 to truck_3
+944.272: truck_1 returns to the berth
+944.272: truck_3 carrying vessel_3-container_24 is departed towards yard
+944.272: crane_2 unloads vessel_2-container_100 from vessel_2 to truck_1
+947.272: truck_2 returns to the berth
+947.272: truck_1 carrying vessel_2-container_100 is departed towards yard
+947.272: crane_1 unloads vessel_3-container_25 from vessel_3 to truck_2
+950.272: truck_3 returns to the berth
+950.272: truck_2 carrying vessel_3-container_25 is departed towards yard
+950.272: crane_2 unloads vessel_2-container_101 from vessel_2 to truck_3
+953.272: truck_1 returns to the berth
+953.272: truck_3 carrying vessel_2-container_101 is departed towards yard
+953.272: crane_1 unloads vessel_3-container_26 from vessel_3 to truck_1
+956.272: truck_2 returns to the berth
+956.272: truck_1 carrying vessel_3-container_26 is departed towards yard
+956.272: crane_2 unloads vessel_2-container_102 from vessel_2 to truck_2
+959.272: truck_3 returns to the berth
+959.272: truck_2 carrying vessel_2-container_102 is departed towards yard
+959.272: crane_1 unloads vessel_3-container_27 from vessel_3 to truck_3
+960.250: vessel_6 arrives and waits for a berth
+962.272: truck_1 returns to the berth
+962.272: truck_3 carrying vessel_3-container_27 is departed towards yard
+962.272: crane_2 unloads vessel_2-container_103 from vessel_2 to truck_1
+965.272: truck_2 returns to the berth
+965.272: truck_1 carrying vessel_2-container_103 is departed towards yard
+965.272: crane_1 unloads vessel_3-container_28 from vessel_3 to truck_2
+968.272: truck_3 returns to the berth
+968.272: truck_2 carrying vessel_3-container_28 is departed towards yard
+968.272: crane_2 unloads vessel_2-container_104 from vessel_2 to truck_3
+971.272: truck_1 returns to the berth
+971.272: truck_3 carrying vessel_2-container_104 is departed towards yard
+971.272: crane_1 unloads vessel_3-container_29 from vessel_3 to truck_1
+974.272: truck_2 returns to the berth
+974.272: truck_1 carrying vessel_3-container_29 is departed towards yard
+974.272: crane_2 unloads vessel_2-container_105 from vessel_2 to truck_2
+977.272: truck_3 returns to the berth
+977.272: truck_2 carrying vessel_2-container_105 is departed towards yard
+977.272: crane_1 unloads vessel_3-container_30 from vessel_3 to truck_3
+980.272: truck_1 returns to the berth
+980.272: truck_3 carrying vessel_3-container_30 is departed towards yard
+980.272: crane_2 unloads vessel_2-container_106 from vessel_2 to truck_1
+983.272: truck_2 returns to the berth
+983.272: truck_1 carrying vessel_2-container_106 is departed towards yard
+983.272: crane_1 unloads vessel_3-container_31 from vessel_3 to truck_2
+986.272: truck_3 returns to the berth
+986.272: truck_2 carrying vessel_3-container_31 is departed towards yard
+986.272: crane_2 unloads vessel_2-container_107 from vessel_2 to truck_3
+989.272: truck_1 returns to the berth
+989.272: truck_3 carrying vessel_2-container_107 is departed towards yard
+989.272: crane_1 unloads vessel_3-container_32 from vessel_3 to truck_1
+992.272: truck_2 returns to the berth
+992.272: truck_1 carrying vessel_3-container_32 is departed towards yard
+992.272: crane_2 unloads vessel_2-container_108 from vessel_2 to truck_2
+995.272: truck_3 returns to the berth
+995.272: truck_2 carrying vessel_2-container_108 is departed towards yard
+995.272: crane_1 unloads vessel_3-container_33 from vessel_3 to truck_3
+998.272: truck_1 returns to the berth
+998.272: truck_3 carrying vessel_3-container_33 is departed towards yard
+998.272: crane_2 unloads vessel_2-container_109 from vessel_2 to truck_1
+1001.272: truck_2 returns to the berth
+1001.272: truck_1 carrying vessel_2-container_109 is departed towards yard
+1001.272: crane_1 unloads vessel_3-container_34 from vessel_3 to truck_2
+1004.272: truck_3 returns to the berth
+1004.272: truck_2 carrying vessel_3-container_34 is departed towards yard
+1004.272: crane_2 unloads vessel_2-container_110 from vessel_2 to truck_3
+1007.272: truck_1 returns to the berth
+1007.272: truck_3 carrying vessel_2-container_110 is departed towards yard
+1007.272: crane_1 unloads vessel_3-container_35 from vessel_3 to truck_1
+1010.272: truck_2 returns to the berth
+1010.272: truck_1 carrying vessel_3-container_35 is departed towards yard
+1010.272: crane_2 unloads vessel_2-container_111 from vessel_2 to truck_2
+1013.272: truck_3 returns to the berth
+1013.272: truck_2 carrying vessel_2-container_111 is departed towards yard
+1013.272: crane_1 unloads vessel_3-container_36 from vessel_3 to truck_3
+1016.272: truck_1 returns to the berth
+1016.272: truck_3 carrying vessel_3-container_36 is departed towards yard
+1016.272: crane_2 unloads vessel_2-container_112 from vessel_2 to truck_1
+1019.272: truck_2 returns to the berth
+1019.272: truck_1 carrying vessel_2-container_112 is departed towards yard
+1019.272: crane_1 unloads vessel_3-container_37 from vessel_3 to truck_2
+Number of vessels waiting for a berth: 3
+Number of containers unloaded in the yard: 298
